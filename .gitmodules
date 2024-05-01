@@ -1,0 +1,6 @@
+[submodule "coding_devotional_sp24"]
+	path = coding_devotional_sp24
+	url = git@github.com:nlunce/coding_devotional_sp24.git
+[submodule "challenge_church_sp24"]
+	path = challenge_church_sp24
+	url = git@github.com:nlunce/challenge_church_sp24.git
